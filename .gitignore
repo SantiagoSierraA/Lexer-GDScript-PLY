@@ -1,0 +1,11 @@
+# los scripts .gd los agrega cada usuario
+*.gd
+
+# salida generada
+resultados/
+
+# python y ply
+__pycache__/
+*.pyc
+parser.out
+parsetab.py
